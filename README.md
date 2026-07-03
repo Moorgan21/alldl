@@ -59,7 +59,7 @@ BOT_TOKEN=xxxxxxxxxx:yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
 python3 tools/json2netscape.py cookies/instagram.json cookies/instagram.txt
 ```
 
-⚠️ **نکته امنیتی:** فایل کوکی شامل `sessionid` هست که معادل دسترسی کامل به اکانته (مثل رمز عبور). این فایل‌ها (`.env` و `cookies/`) تو `.gitignore` هستن و هرگز نباید commit بشن.
+
 
 ## اجرا
 
